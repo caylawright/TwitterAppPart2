@@ -8,7 +8,7 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X ] User can **compose and post a new tweet**
+- [X] User can **compose and post a new tweet**
   - [X] User can click a “Compose” icon in the Action Bar on the top right
   - [X] User can then enter a new tweet and post this to twitter
   - [X] User is taken back to home timeline with **new tweet visible** in timeline
