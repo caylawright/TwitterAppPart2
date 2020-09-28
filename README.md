@@ -18,10 +18,10 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [X ] User can **click a link within a tweet body** on tweet details view. The click will launch the web browser with relevant page opened.
-- [X ] User can **select "reply" from detail view to respond to a tweet**
+- [X] User can **click a link within a tweet body** on tweet details view. The click will launch the web browser with relevant page opened.
+- [X] User can **select "reply" from detail view to respond to a tweet**
   - [ ] User that wrote the original tweet is **automatically "@" replied in compose**
-- [ ] User can move the "Compose" action to a FloatingActionButton instead of on the AppBar.
+- [X] User can move the "Compose" action to a FloatingActionButton instead of on the AppBar.
 - [ ] Compose tweet functionality is build using modal overlay
 - [ ] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
 - [ ] User can **open the twitter app offline and see last loaded tweets**. Persisted in SQLite tweets are refreshed on every application launch. While "live data" is displayed when app can get it from Twitter API, it is also saved for use in offline mode.
@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 The following **bonus** features are implemented:
 
 - [X] User can tap a tweet to **open a detailed tweet view**
-  - [ X] User can **take favorite (and unfavorite) or reweet** actions on a tweet
+  - [X] User can **take favorite (and unfavorite) or reweet** actions on a tweet
 - [ ] Use the popular ButterKnife annotation library to reduce view boilerplate.
 - [ ] On the Twitter timeline, leverage the [CoordinatorLayout](http://guides.codepath.org/android/Handling-Scrolls-with-CoordinatorLayout#responding-to-scroll-events) to apply scrolling behavior that [hides / shows the toolbar](http://guides.codepath.org/android/Using-the-App-ToolBar#reacting-to-scroll).
 
